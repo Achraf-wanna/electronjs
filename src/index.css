@@ -80,3 +80,23 @@ text-align: center;
   width: 545px;
   margin-right: 80%;
 }
+
+
+#histbackhome {
+
+  text-align: left;
+  margin-top: -30px;
+  width: 85px;
+  margin-right: 80%;
+
+}
+
+#savee {
+
+  text-align: center;
+  margin-top: -30px;
+  width: 545px;
+  margin-right: 80%;
+  font-weight: bolder;
+
+}
